@@ -3,7 +3,7 @@ import { Separator } from "~/components/ui/separator";
 
 interface PageLayoutProps {
   title: string;
-  subtitle?: string;
+  subtitle?: React.ReactNode;
   date?: string;
   children: React.ReactNode;
   footer?: string;
@@ -11,7 +11,19 @@ interface PageLayoutProps {
 
 export function PageLayout({
   title,
-  subtitle = "Team TDS.company",
+  subtitle = (
+    <>
+      Team{" "}
+      <a
+        href="https://tds.company"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="hover:underline"
+      >
+        TDS.company
+      </a>
+    </>
+  ),
   date = "V0.10, 06/01/2025",
   children,
   footer,
