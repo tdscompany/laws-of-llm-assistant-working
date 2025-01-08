@@ -18,7 +18,7 @@ export function PageLayout({
         href="https://tds.company"
         target="_blank"
         rel="noopener noreferrer"
-        className="hover:underline"
+        className="underline"
       >
         TDS.company
       </a>
