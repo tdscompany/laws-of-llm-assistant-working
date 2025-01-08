@@ -39,7 +39,7 @@ export const lawsByCategory: Record<string, LawCategory> = {
           "The use of LLMs in work must adhere to ethical principles and align with the values and standards of the field. Professionals must critically evaluate LLM outputs to avoid perpetuating biases, ensuring fairness, accountability, and compliance with industry norms and regulations.",
       },
     ],
-    footer: "These laws establish a framework for integrating LLMs into professional workflows while maintaining high standards of quality, accountability, and ethical conduct. They promote the strategic use of AI as a collaborative tool while emphasizing the irreplaceable value of human expertise and judgment in the workplace.",
+    footer: "These laws establish a framework for integrating LLMs (Large Language Models - AI systems that understand and generate human-like text) into professional workflows while maintaining high standards of quality, accountability, and ethical conduct. They promote the strategic use of AI as a collaborative tool while emphasizing the irreplaceable value of human expertise and judgment in the workplace.",
   },
   coding: {
     title: "The 5 Laws of LLM-Assisted Coding",
@@ -70,7 +70,7 @@ export const lawsByCategory: Record<string, LawCategory> = {
           "All code, whether LLM-generated or not, must adhere to the organization's ethical guidelines and security standards. LLMs should be used to enhance, not compromise, code quality and security.",
       },
     ],
-    footer: "These laws provide a framework for integrating LLMs into your coding workflow while maintaining high standards of code quality, security, and developer understanding. They encourage the use of AI as a powerful tool while emphasizing the critical role of human expertise and oversight in the software development process.",
+    footer: "These laws provide a framework for integrating LLMs (Large Language Models - AI systems that can understand, generate, and assist with code) into your coding workflow while maintaining high standards of code quality, security, and developer understanding. They encourage the use of AI as a powerful tool while emphasizing the critical role of human expertise and oversight in the software development process.",
   },
   design: {
     title: "The 5 Laws of LLM-Assisted Design",
@@ -101,7 +101,7 @@ export const lawsByCategory: Record<string, LawCategory> = {
           "LLM-assisted designs must adhere to ethical principles and promote inclusivity. Designers must critically evaluate outputs to avoid perpetuating biases or stereotypes and ensure that designs generated with LLM assistance align with accessibility and sustainability goals.",
       },
     ],
-    footer: "These laws establish guidelines for incorporating LLMs into the creative design process while upholding principles of artistic integrity, user-centered design, and ethical considerations. They promote AI as an innovative design partner while preserving the essential human elements of creativity, empathy, and design thinking.",
+    footer: "These laws establish guidelines for incorporating LLMs (Large Language Models - AI systems that can understand design concepts and assist in creative processes) into the creative design process while upholding principles of artistic integrity, user-centered design, and ethical considerations. They promote AI as an innovative design partner while preserving the essential human elements of creativity, empathy, and design thinking.",
   },
   education: {
     title: "The 5 Laws of LLM-Assisted Education",
@@ -132,7 +132,7 @@ export const lawsByCategory: Record<string, LawCategory> = {
           "LLM-assisted education must adhere to ethical guidelines, promoting inclusivity, accessibility, and fairness. Educators must ensure that AI-generated materials do not perpetuate biases and that the educational environment remains respectful, equitable, and supportive of diverse learners.",
       },
     ],
-    footer: "These laws create a foundation for integrating LLMs into educational practices while maintaining pedagogical excellence, student engagement, and learning outcomes. They position AI as a valuable educational tool while emphasizing the irreplaceable role of human educators in nurturing critical thinking and personal development.",
+    footer: "These laws create a foundation for integrating LLMs (Large Language Models - AI systems that can assist in content creation, answer questions, and facilitate learning) into educational practices while maintaining pedagogical excellence, student engagement, and learning outcomes. They position AI as a valuable educational tool while emphasizing the irreplaceable role of human educators in nurturing critical thinking and personal development.",
   },
   healthcare: {
     title: "The 5 Laws of LLM-Assisted Healthcare",
@@ -163,7 +163,7 @@ export const lawsByCategory: Record<string, LawCategory> = {
           "The use of LLMs in medicine must uphold the highest ethical standards, prioritizing patient safety, privacy, and dignity. Healthcare professionals must critically review LLM outputs to prevent perpetuating biases and ensure that care remains equitable, transparent, and aligned with regulatory standards.",
       },
     ],
-    footer: "These laws establish crucial guidelines for incorporating LLMs into healthcare practices while maintaining the highest standards of patient care, medical ethics, and professional responsibility. They frame AI as a powerful clinical support tool while affirming the paramount importance of human medical expertise and the doctor-patient relationship.",
+    footer: "These laws establish crucial guidelines for incorporating LLMs (Large Language Models - AI systems that can process medical information and assist in healthcare decisions) into healthcare practices while maintaining the highest standards of patient care, medical ethics, and professional responsibility. They frame AI as a powerful clinical support tool while affirming the paramount importance of human medical expertise and the doctor-patient relationship.",
   },
   legal: {
     title: "The 5 Laws of LLM-Assisted Legal Practice",
@@ -194,6 +194,6 @@ export const lawsByCategory: Record<string, LawCategory> = {
           "The use of LLMs in legal practice must adhere to the highest ethical standards, ensuring fairness, impartiality, and confidentiality. Legal professionals must critically assess LLM outputs to avoid perpetuating biases and ensure they contribute to equitable access to justice and compliance with legal norms.",
       },
     ],
-    footer: "These laws provide a framework for integrating LLMs into legal practice while upholding the principles of justice, due process, and professional ethics. They position AI as a valuable legal resource while emphasizing the essential role of human judgment, legal expertise, and ethical considerations in the administration of justice.",
+    footer: "These laws provide a framework for integrating LLMs (Large Language Models - AI systems that can analyze legal texts and assist in legal research) into legal practice while upholding the principles of justice, due process, and professional ethics. They position AI as a valuable legal resource while emphasizing the essential role of human judgment, legal expertise, and ethical considerations in the administration of justice.",
   },
 }; 
