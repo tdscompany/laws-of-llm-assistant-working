@@ -7,7 +7,7 @@ const categories = [
   { name: "Coding", path: "/" },
   { name: "Working", path: "/working" },
   { name: "Design", path: "/design" },
-  { name: "Teaching", path: "/teaching" },
+  { name: "Education", path: "/education" },
   { name: "Healthcare", path: "/healthcare" },
   { name: "Legal", path: "/legal" },
 ];

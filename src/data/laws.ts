@@ -103,13 +103,13 @@ export const lawsByCategory: Record<string, LawCategory> = {
     ],
     footer: "These laws establish guidelines for incorporating LLMs into the creative design process while upholding principles of artistic integrity, user-centered design, and ethical considerations. They promote AI as an innovative design partner while preserving the essential human elements of creativity, empathy, and design thinking.",
   },
-  teaching: {
-    title: "The 5 Laws of LLM-Assisted Teaching",
+  education: {
+    title: "The 5 Laws of LLM-Assisted Education",
     laws: [
       {
         title: "1. Freedom of LLM Choice",
         content:
-          "Educators are free to select any large language model that aligns with their teaching objectives and audience needs. This flexibility enables customization and adapts to various educational contexts, enhancing the learning experience.",
+          "Educators are free to select any large language model that aligns with their educational objectives and audience needs. This flexibility enables customization and adapts to various educational contexts, enhancing the learning experience.",
       },
       {
         title: "2. Pedagogical Alignment and Validation",
@@ -119,17 +119,17 @@ export const lawsByCategory: Record<string, LawCategory> = {
       {
         title: "3. Human-AI Collaboration in Learning Facilitation",
         content:
-          "Teaching processes must involve active collaboration between educators and LLMs. While LLMs can assist by generating content, answering questions, or facilitating discussions, the educator remains responsible for guiding the learning process, contextualizing information, and fostering critical thinking.",
+          "Educational processes must involve active collaboration between educators and LLMs. While LLMs can assist by generating content, answering questions, or facilitating discussions, the educator remains responsible for guiding the learning process, contextualizing information, and fostering critical thinking.",
       },
       {
         title: "4. Iterative Feedback and Improvement",
         content:
-          "Educators must continuously assess the effectiveness of LLMs in supporting teaching and learning. Regular feedback from students and iterative improvements in how LLMs are integrated into lessons help refine their role in the educational process.",
+          "Educators must continuously assess the effectiveness of LLMs in supporting education and learning. Regular feedback from students and iterative improvements in how LLMs are integrated into lessons help refine their role in the educational process.",
       },
       {
         title: "5. Ethical and Inclusive Educational Standards",
         content:
-          "LLM-assisted teaching must adhere to ethical guidelines, promoting inclusivity, accessibility, and fairness. Educators must ensure that AI-generated materials do not perpetuate biases and that the teaching environment remains respectful, equitable, and supportive of diverse learners.",
+          "LLM-assisted education must adhere to ethical guidelines, promoting inclusivity, accessibility, and fairness. Educators must ensure that AI-generated materials do not perpetuate biases and that the educational environment remains respectful, equitable, and supportive of diverse learners.",
       },
     ],
     footer: "These laws create a foundation for integrating LLMs into educational practices while maintaining pedagogical excellence, student engagement, and learning outcomes. They position AI as a valuable educational tool while emphasizing the irreplaceable role of human educators in nurturing critical thinking and personal development.",

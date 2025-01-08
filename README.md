@@ -1,6 +1,6 @@
 # The 5 Laws of LLM-Assisted Work
 
-A manifesto for responsible and effective use of Large Language Models across different professional domains. This project presents a set of guiding principles for working with AI assistants in various fields including coding, healthcare, legal practice, design, teaching, and general work environments.
+A manifesto for responsible and effective use of Large Language Models across different professional domains. This project presents a set of guiding principles for working with AI assistants in various fields including coding, healthcare, legal practice, design, education, and general work environments.
 
 ## Overview
 
@@ -11,7 +11,7 @@ This project provides a framework of principles to help professionals integrate 
 - **Coding**: Guidelines for developers using LLMs in software development
 - **Working**: General principles for LLM integration in professional workflows
 - **Design**: Framework for designers leveraging LLMs in creative processes
-- **Teaching**: Guidelines for educators using LLMs in educational contexts
+- **Education**: Guidelines for educators using LLMs in educational contexts
 - **Healthcare**: Principles for healthcare professionals using LLMs in medical practice
 - **Legal**: Framework for legal professionals integrating LLMs in legal practice
 
