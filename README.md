@@ -1,29 +1,82 @@
-# Create T3 App
+# The 5 Laws of LLM-Assisted Work
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+A manifesto for responsible and effective use of Large Language Models across different professional domains. This project presents a set of guiding principles for working with AI assistants in various fields including coding, healthcare, legal practice, design, teaching, and general work environments.
 
-## What's next? How do I make an app with this?
+## Overview
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+This project provides a framework of principles to help professionals integrate LLMs into their workflows while maintaining high standards of quality, accountability, and ethical conduct. Each domain has its own specific set of 5 laws, tailored to address the unique challenges and requirements of that field.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+## Domains Covered
+
+- **Coding**: Guidelines for developers using LLMs in software development
+- **Working**: General principles for LLM integration in professional workflows
+- **Design**: Framework for designers leveraging LLMs in creative processes
+- **Teaching**: Guidelines for educators using LLMs in educational contexts
+- **Healthcare**: Principles for healthcare professionals using LLMs in medical practice
+- **Legal**: Framework for legal professionals integrating LLMs in legal practice
+
+## Core Principles
+
+Each domain's laws are structured around five fundamental principles:
+
+1. **Freedom of LLM Choice**: Flexibility in selecting appropriate AI tools
+2. **Context Comprehension and Validation**: Understanding and validating AI outputs
+3. **Human-AI Collaboration**: Maintaining human oversight and expertise
+4. **Continuous Improvement**: Active feedback and refinement of processes
+5. **Ethical Standards**: Adherence to domain-specific ethical guidelines
+
+## Development
+
+This is a [Next.js](https://nextjs.org/) project using the T3 Stack, built with modern web technologies:
 
 - [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Drizzle](https://orm.drizzle.team)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+- [Geist UI](https://geist-ui.dev/)
 
-## Learn More
+### Getting Started
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+1. Clone the repository:
+\`\`\`bash
+git clone https://github.com/tdscompany/laws-of-llm-assistant-working.git
+\`\`\`
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+2. Install dependencies:
+\`\`\`bash
+pnpm install
+\`\`\`
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+3. Run the development server:
+\`\`\`bash
+pnpm dev
+\`\`\`
 
-## How do I deploy this?
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+### Available Scripts
+
+- \`pnpm dev\`: Start development server
+- \`pnpm build\`: Build for production
+- \`pnpm start\`: Start production server
+- \`pnpm lint\`: Run linting
+- \`pnpm format:write\`: Format code
+- \`pnpm typecheck\`: Type check TypeScript
+
+## Contributing
+
+We welcome contributions to improve and expand these laws. Whether you want to suggest improvements to existing laws, add new domains, or enhance the website, your input is valuable.
+
+1. Fork the repository
+2. Create your feature branch
+3. Make your changes
+4. Submit a pull request
+
+Please ensure your contributions maintain the existing structure and quality standards.
+
+## License
+
+This project is maintained by [TDS.company](https://tds.company). All rights reserved.
+
+## Version
+
+Current version: V0.10 (Expected release: 06/01/2025)
