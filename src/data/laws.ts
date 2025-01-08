@@ -134,8 +134,8 @@ export const lawsByCategory: Record<string, LawCategory> = {
     ],
     footer: "These laws create a foundation for integrating LLMs into educational practices while maintaining pedagogical excellence, student engagement, and learning outcomes. They position AI as a valuable educational tool while emphasizing the irreplaceable role of human educators in nurturing critical thinking and personal development.",
   },
-  medicine: {
-    title: "The 5 Laws of LLM-Assisted Medicine",
+  healthcare: {
+    title: "The 5 Laws of LLM-Assisted Healthcare",
     laws: [
       {
         title: "1. Freedom of LLM Choice",
@@ -165,8 +165,8 @@ export const lawsByCategory: Record<string, LawCategory> = {
     ],
     footer: "These laws establish crucial guidelines for incorporating LLMs into healthcare practices while maintaining the highest standards of patient care, medical ethics, and professional responsibility. They frame AI as a powerful clinical support tool while affirming the paramount importance of human medical expertise and the doctor-patient relationship.",
   },
-  justice: {
-    title: "The 5 Laws of LLM-Assisted Justice",
+  legal: {
+    title: "The 5 Laws of LLM-Assisted Legal Practice",
     laws: [
       {
         title: "1. Freedom of LLM Choice",

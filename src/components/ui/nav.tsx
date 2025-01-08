@@ -4,12 +4,12 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 const categories = [
-  { name: "Working", path: "/" },
-  { name: "Coding", path: "/coding" },
+  { name: "Coding", path: "/" },
+  { name: "Working", path: "/working" },
   { name: "Design", path: "/design" },
   { name: "Teaching", path: "/teaching" },
-  { name: "Medicine", path: "/medicine" },
-  { name: "Justice", path: "/justice" },
+  { name: "Healthcare", path: "/healthcare" },
+  { name: "Legal", path: "/legal" },
 ];
 
 export function Nav() {

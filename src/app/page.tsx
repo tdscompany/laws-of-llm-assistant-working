@@ -3,11 +3,11 @@ import { PageLayout } from "~/components/layout/page-layout";
 import { type LawCategory, lawsByCategory } from "~/data/laws";
 
 export default function HomePage() {
-  const workingLaws = lawsByCategory.working!;
+  const codingLaws = lawsByCategory.coding!;
 
   return (
-    <PageLayout title={workingLaws.title} footer={workingLaws.footer}>
-      <LawsDisplay laws={workingLaws.laws} />
+    <PageLayout title={codingLaws.title} footer={codingLaws.footer}>
+      <LawsDisplay laws={codingLaws.laws} />
     </PageLayout>
   );
 }
