@@ -37,34 +37,43 @@ This is a [Next.js](https://nextjs.org/) project using the T3 Stack, built with 
 ### Getting Started
 
 1. Clone the repository:
-\`\`\`bash
+
+```bash
 git clone https://github.com/tdscompany/laws-of-llm-assistant-working.git
-\`\`\`
+```
 
 2. Install dependencies:
-\`\`\`bash
+
+```bash
 pnpm install
-\`\`\`
+```
 
 3. Run the development server:
-\`\`\`bash
+
+```bash
 pnpm dev
-\`\`\`
+```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ### Available Scripts
 
-- \`pnpm dev\`: Start development server
-- \`pnpm build\`: Build for production
-- \`pnpm start\`: Start production server
-- \`pnpm lint\`: Run linting
-- \`pnpm format:write\`: Format code
-- \`pnpm typecheck\`: Type check TypeScript
+- `pnpm dev`: Start development server
+- `pnpm build`: Build for production
+- `pnpm start`: Start production server
+- `pnpm lint`: Run linting
+- `pnpm format:write`: Format code
+- `pnpm typecheck`: Type check TypeScript
 
 ## Contributing
 
 We welcome contributions to improve and expand these laws. Whether you want to suggest improvements to existing laws, add new domains, or enhance the website, your input is valuable.
+
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide for detailed information about:
+- Ways to contribute
+- Content and code guidelines
+- Pull request process
+- Code of conduct
 
 1. Fork the repository
 2. Create your feature branch
